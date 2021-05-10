@@ -1,0 +1,19 @@
+00:00:00.938502 VirtualBox NAT Network 6.0.14 r133895 win.amd64 (Oct 10 2019 19:44:31) release log
+00:00:00.938505 Log opened 2020-09-28T09:13:14.446838200Z
+00:00:00.938505 Build Type: release
+00:00:00.938508 OS Product: Windows 10
+00:00:00.938509 OS Release: 10.0.18363
+00:00:00.938510 OS Service Pack: 
+00:00:01.104018 DMI Product Name: HP Pavilion Laptop 14-ce0xxx
+00:00:01.109383 DMI Product Version: Type1ProductConfigId
+00:00:01.109411 Host RAM: 8076MB (7.8GB) total, 2627MB (2.5GB) available
+00:00:01.109419 Executable: C:\Program Files\Oracle\VirtualBox\VBoxNetNAT.exe
+00:00:01.109419 Process ID: 8756
+00:00:01.109420 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.241554 SUP: Opened VMMR0.r0 (C:\Program Files\Oracle\VirtualBox\VMMR0.r0) at 0xXXXXXXXXXXXXXXXX loaded by the native ring-0 loader.
+00:00:01.241580 SUP: windbg> .reload /f C:\Program Files\Oracle\VirtualBox\VMMR0.r0=0xXXXXXXXXXXXXXXXX
+00:00:01.247477 netif NT0: mac 52:54:00:12:35:00
+00:00:01.247524 netif NT0: inet 10.200.0.1 netmask 255.255.0.0
+00:00:01.263196 Loading IPv4 port-forwarding rule "IKE": UDP :8500 -> 10.200.0.2:500
+00:00:01.263449 Loading IPv4 port-forwarding rule "IPSec": UDP :8501 -> 10.200.0.2:4500
+00:00:01.263536 Loading IPv4 port-forwarding rule "SSH": TCP :2234 -> 10.200.0.2:22
